@@ -4,7 +4,7 @@ function Navbar(){
 
     return(
 
-        <header className="sticky top-0 bg-white border-b additional-50">
+        <header className="sticky top-0 bg-white border-b additional-50 px-20">
 
             <div className="peak-w-6xl mx-auto px-5 py-4 flex items-center justify-between">
 
