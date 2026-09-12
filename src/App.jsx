@@ -32,7 +32,7 @@ function App(){
 
                 </div>
 
-                <div className="w-full mt-15 lg:w-1/4">
+                <div className="w-full mt-[60px] lg:w-1/4">
 
                     <StackSidebar
 
