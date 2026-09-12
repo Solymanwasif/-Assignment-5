@@ -8,7 +8,7 @@ Users can browse different technologies, view important details, and create a cu
 
 ## 🌐 Live Preview
 
-🔗 Live Site: **Add your deployment link here**
+🔗 Live Site: https://assignment-5-three-lilac.vercel.app/
 
 🔗 Repository:
 https://github.com/Solymanwasif/dev-stack-builder
