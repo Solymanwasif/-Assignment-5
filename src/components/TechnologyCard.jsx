@@ -49,7 +49,7 @@ function TechnologyCard({tech, stack, setStack}){
 
                 </div>
 
-                <span className="bg-purple-100 text-purple-600 px-3 py-1 rounded-full text-xs">
+                <span className="bg-purple-100 text-purple-700 px-3 py-1 rounded-full text-xs">
 
                     {tech.badge}
 
