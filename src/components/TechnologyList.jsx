@@ -24,7 +24,7 @@ function TechnologyList({stack, setStack}){
 
         <section>
 
-            <h2 className="ml-20 text-3xl font-bold mb-6">
+            <h2 className="ml-[80px] text-3xl font-bold mb-6">
 
                 Explore Technologies
 
