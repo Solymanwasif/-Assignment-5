@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+
+:root{
+
+    --brand-gradient:
+    linear-gradient(
+        90deg,
+        #ff8a00,
+        #ff0080,
+        #7928ca
+    );
+
+}
+
+
+body{
+
+    font-family: "Inter", sans-serif;
+
+}

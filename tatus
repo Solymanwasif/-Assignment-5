@@ -1,0 +1,18 @@
+[33mdfa9721[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Update description of mangpdb in custom.json
+[33m44e278c[m update margin-top StackSidebar
+[33m2e06fd5[m improve main layout spacing and responsiveness
+[33m8cfe1e0[m update technology badges data
+[33m129aab5[m improve technology loading section
+[33mf951c93[m improve technology card hover and button style
+[33m472c4e8[m improve stack sidebar design and hover effects
+[33mded3175[m improve navbar layout and button hover
+[33mc53349c[m improve hero section layout and button style
+[33ma350587[m update footer description and social link styles
+[33mfcc199b[m Create stack sidebar and remove features
+[33m15de784[m Create stack sidebar and remove features
+[33mbf719f1[m Complete footer and responsive improvements
+[33mfe982f1[m Add React Toastify notifications
+[33m375039a[m Implement stack selection functionality
+[33mdd3b7eb[m Create reusable technology card component
+[33m0073542[m Add responsive navbar and hero section
+[33m4af0b46[m Initialize Dev Stack Builder project
