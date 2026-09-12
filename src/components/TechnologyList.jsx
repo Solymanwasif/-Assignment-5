@@ -33,7 +33,7 @@ function TechnologyList({stack, setStack}){
             {
                 loading ?
 
-                <div className="ml-20 text-center py-16 border rounded-lg">
+                <div className="ml-[80px] text-center py-16 border rounded-lg">
 
                     <h2 className="text-xl">
 
