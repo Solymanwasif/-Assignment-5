@@ -3,7 +3,7 @@ function Footer(){
     return(
 
         <footer className="bg-gray-950 text-gray-300 mt-10">
-
+         {/* parent div inside footer */}
          <div className="mx-20">
                         <div className="px-5 py-10 grid md:grid-cols-4 gap-8">
 
