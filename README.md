@@ -10,9 +10,7 @@ Users can browse different technologies, view important details, and create a cu
 
 🔗 Live Site: https://assignment-5-three-lilac.vercel.app/
 
-🔗 Repository:
-
-https://github.com/Solymanwasif/-Assignment-5
+🔗 Repository: https://github.com/Solymanwasif/-Assignment-5
 ---
 
 ## 📌 About The Project
